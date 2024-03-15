@@ -41,7 +41,8 @@ Python 2 support will be dropped soon.
 
 ::
 
-    pip install otx-misp
+    git clone git@github.com:Protergo-Cyber-Security/otx_misp.git
+    sudo python3 setup.py install
 
 Documentation
 =============
