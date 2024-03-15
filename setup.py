@@ -59,7 +59,8 @@ setup(
         'Alienvault', 'OTX', 'MISP'
     ],
     install_requires=[
-        'pymisp>=2.4.53',
+        'pymisp>=2.4.113',
+        'OTXv2>=1.5.12',
         'python-dateutil'
     ],
     extras_require={
